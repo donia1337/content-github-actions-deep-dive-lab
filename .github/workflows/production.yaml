@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      BUCKET_NAME: wefjneiwjuf948034fjsdf-prodbucket-23894jseds
+      BUCKET_NAME: qweri23932-sdjfsdjfs329-prod-qwkjdajk9213
     steps:
       - name: checkout code
         uses: actions/checkout@v2
